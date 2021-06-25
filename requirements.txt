@@ -1,0 +1,6 @@
+Flask
+Flask-PyMongo
+datetime 
+uuid
+Flask-SQLAlchemy
+PyJWT
